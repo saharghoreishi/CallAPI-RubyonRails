@@ -16,5 +16,4 @@ In this test project you could search the movie name in search box which is auto
  14 hours of instalation(there is a problem with instalation of rails on win10, finally solved with some tricky ways)
  4 hours of studying ruby on rails
  8 hours of coding
- -----------------
- Total 26 hours
+
