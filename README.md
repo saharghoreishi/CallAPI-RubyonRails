@@ -14,7 +14,7 @@ Things you may want to cover:
 In this test project you could search the movie name in search box which is auto compelete box, then you could see the movie informations in the page (the information of the movie comes from omdb API) and finally order the movie on site
  Timing:
  
- *14 hours of instalation(there is a problem with instalation of rails on win10, finally solved with some tricky ways)
+ *14 hours of installation(there is a problem with installation of rails on win10, finally solved with some tricky ways)
  
  *4 hours of studying ruby on rails
  
